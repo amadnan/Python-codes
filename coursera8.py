@@ -1,6 +1,14 @@
-print("hello tony")
-print("how are u stark")
+a = int(input())
+b = int(input())
 
-x = 4 
-y = 5
-print(x+y)
+x = a+b
+print("X =",x)
+print("\n")
+
+A = int(input())
+
+B = int(input())
+
+X = A+B
+
+print(f"X = {X}")
