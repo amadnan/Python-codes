@@ -1,0 +1,5 @@
+X = int(input())
+Y = float(input())
+z = float(X/Y)
+d =round(z,3)
+print(d,"km/l")
