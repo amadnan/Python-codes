@@ -4,7 +4,9 @@ a = float(x[0])
 b = float(x[1])
 c = float(x[2])
 D = b*b - 4*a*c
-if(D<0):
+if(a==0):
+    print("Impossivel calcular")
+elif(D<0):
     print("Impossivel calcular")
 else:
     y1 = ((-b + sqrt(D))/(2*a))
