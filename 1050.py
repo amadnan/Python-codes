@@ -5,7 +5,7 @@ if(a==61):
 elif(a==71):
     print("Salvador")  
 elif(a==11):
-    print("Sap Paulo")
+    print("Sao Paulo")
 elif(a==21):
     print("Rio de Janeiro")
 elif(a==32):
@@ -17,4 +17,4 @@ elif(a==27):
 elif(a==31):
     print("Belo Horizonte")       
 else:
-    print("DDD not found")
+    print("DDD nao cadastrado")
