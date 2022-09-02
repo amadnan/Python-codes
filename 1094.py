@@ -15,7 +15,7 @@ for i in range(t):
         frog = frog + a
     sum = sum + (a)
 
-print(f'Total : {int(sum)} cobaias')
+print(f'Total: {int(sum)} cobaias')
 print(f'Total de coelhos: {int(rabbit)}')
 print(f'Total de ratos: {int(rat)}')
 print(f'Total de sapos: {int(frog)}')
